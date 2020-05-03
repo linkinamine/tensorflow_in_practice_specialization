@@ -22,7 +22,7 @@ tf.Keras.Layers.Bidirectional(tf.keras.layers.LSTM(n2))
     - Accuracy and Loss for multilayer LSTMs are more smooth, specially in the long term training.
     - Due to the nature of NLP, and out of vocabulary words, we are always prone to overfitting, because these words cannot be classified during validation.
 
-- Link to lessons from the coursera week 2: 
+- Link to lessons from the coursera week 3: 
 
     - [IMDB Subwords 8K with Single Layer LSTM](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%201a.ipynb)
     - [IMDB Subwords 8K with Multi Layer LSTM](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%201b.ipynb)
